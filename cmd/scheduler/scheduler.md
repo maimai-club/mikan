@@ -1,4 +1,4 @@
-# mikan-schedular
+# mikan-scheduler
 
 ## todo
 
